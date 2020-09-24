@@ -1,9 +1,9 @@
 # **WhatsApp Message Automation** #
-This is an opensource application written in python language designed specially for small/medium scale companies.<br/>
-This application can be easily used for sendnig marketing brouchures, status report, marketing or product details to customer through WhatsApp Web.<br/>
+This is an opensource application written in python language designed specially for small/medium scale companies and colleges.<br/>
+This application can be easily used for sendnig **marketing brouchures, status report, marketing or product details to customer,assignments** through WhatsApp Web.<br/>
 
 All needed is to put details in config.csv file as per columns and Message, File or both will be sende to client.<br/>
-WhatsApp_Message.exe file is in /dist folder with config.csv and log.txt for logging the notification details.<br/>
+**WhatsApp_Message.exe** file is in **/dist** folder with **config.csv** and **log.txt** for logging the notification details.<br/>
 
 git clone https://github.com/gaurangbhatt19/whatsappmessage.git
 # **Steps**
@@ -11,6 +11,7 @@ git clone https://github.com/gaurangbhatt19/whatsappmessage.git
 2. Copy chromedriver.exe to dist folder .
 3. Details in config.csv .
 4. Run Whatsapp_Message.exe .
+5. Use **"Hi, ABC"** if your text has **','** in between .
 
 ![](images/image1.jpeg)
 
