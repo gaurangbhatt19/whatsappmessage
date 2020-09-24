@@ -5,7 +5,7 @@ This application can be easily used for sendnig marketing brouchures, status rep
 All needed is to put details in config.csv file as per columns and Message, File or both will be sende to client.<br/>
 WhatsApp_Message.exe file is in /dist folder with config.csv and log.txt for logging the notification details.<br/>
 
-git clone 
+git clone https://github.com/gaurangbhatt19/whatsappmessage.git
 # **Steps**
 1. Unarchieve the WhatsApp_Message_Service.rar .
 2. Copy chromedriver.exe to dist folder .
