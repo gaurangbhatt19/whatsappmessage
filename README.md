@@ -11,7 +11,7 @@ git clone https://github.com/gaurangbhatt19/whatsappmessage.git
 2. Copy **chromedriver.exe** to **dist** folder .
 3. Details in **config.csv** .
 4. Run **Whatsapp_Message.exe** .
-5. Use **"Hi, ABC"** if your text has **','** in between .
+5. Use **"Hi, ABC"** if your text has **','** in between or use Excel.
 
 ![](images/image1.jpeg)
 
