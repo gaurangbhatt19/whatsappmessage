@@ -1,6 +1,6 @@
 # **WhatsApp Message Automation** #
-This is an opensource application written in python language designed specially for small/medium scale companies and colleges.<br/>
-This application can be easily used for sending **marketing brouchures, status report, marketing or product details to customer, assignments** through WhatsApp Web.<br/>
+This is an opensource application written in python language designed especially for small/medium scale companies and colleges.<br/>
+This application can be easily used for sending **marketing brochures, status reports, marketing or product details to customers, assignments** through WhatsApp Web.<br/>
 
 All needed is to put details in config.csv file as per columns and Message, File or both will be sende to client.<br/>
 **WhatsApp_Message.exe** file is in **/dist** folder with **config.csv** and **log.txt** for logging the notification details.<br/>
